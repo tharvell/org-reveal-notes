@@ -1,0 +1,16 @@
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+
+#+TITLE: Test Slides 
+#+AUTHOR: Tom Harvell 
+#+EMAIL: harvellt@gmail.com
+#+REVEAL_THEME: night 
+#+OPTIONS: num:nil toc:nil
+
+* Important links to get this to work 
+- [[http://jr0cket.co.uk/2013/10/create-cool-slides--Org-mode-Revealjs.html.html][jr0ket Walk Through]]
+- [[https://github.com/yjwen/org-reveal][yjwen Walk Through]] 
+
+* Customize just one slide!
+   :PROPERTIES:
+   :reveal_background: #123456
+   :END:
